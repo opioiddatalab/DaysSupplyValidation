@@ -1,4 +1,8 @@
 # Validation study for days' supply calculations for opioids in the pharmacy
+Principal investigator: Trish Freeman (contact info)<br>
+Research team: John Brown, Nabarun Dasgupta<br>
+Project P1
+__________
 
 Controlled substance prescription records from independent pharmacies in Kentucky will be reviewed to compare days’ supply as calculated based on the quantity and directions for use on the original prescription to the days’ supply value submitted to the PMP. For each prescription an abstract form will be populated, allowing us to calculate the average days’ supply difference between the KASPER record and the measure calculated by the study abstractor. Additional information on type of insurance and cost of the medication will be abstracted for further analysis.
 
@@ -7,3 +11,14 @@ The main goal will be to validate (calculate positive predictive value [PPV]) fo
 A targeted review of outlier days’ supply records will be done to identify sources of errors in days’ supply calculations. An algorithm for identifying possibly incorrect days’ supply measures for opioid analgesics in the state PMP system will be developed based on recommendations for therapeutic dose and duration of a prescription. All suspected record-outliers will be reviewed in the 30 independent pharmacies with highest number of outlier records in order to develop a brief for pharmacist education on improved calculation of days’ supply for opioid analgesics with specific example for ADFs as well as non-ADFs based on the results from the targeted review of the outlier days’ supply records.
 
 Results from prescriber and pharmacist surveys will be compiled in a white paper that will be distributed to stakeholders and available for download on the project website.  Additionally, results will be presented at relevant state association conferences and disseminated through presentations at national conferences. The data collection instruments, raw data sets and codebook will be made available to other researchers for secondary data analysis. An education brief for pharmacists on days’ supply calculation will be prepared and disseminated through various channels. These results will be also of benefit to PMP administrators for data quality improvement, and disseminated in conjunction with the Prescription Drug Monitoring Program Training and Technical Assistance Center (PDMP TTAC). Drs. Freeman and Slavova will produce at least one manuscript and will present results at research conferences.
+__________
+
+##### Funding
+Data production supported by: none<br>
+Data analysis supported by: US Food and Drug Administration (HHS#)<br>
+
+##### Ethics Review
+Instituntional review board: UK #, FDA #<br>
+If there are questions about research ethics, the IRB can be reached at: <br>
+
+__________
