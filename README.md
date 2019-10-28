@@ -1,24 +1,17 @@
-# Validation study for days' supply calculations for opioids in the pharmacy
-Principal investigator: Trish Freeman (contact info)<br>
-Research team: John Brown, Nabarun Dasgupta<br>
-Project P1
-__________
+# Days' Supply Pharmacy Validation
 
-Controlled substance prescription records from independent pharmacies in Kentucky will be reviewed to compare days’ supply as calculated based on the quantity and directions for use on the original prescription to the days’ supply value submitted to the PMP. For each prescription an abstract form will be populated, allowing us to calculate the average days’ supply difference between the KASPER record and the measure calculated by the study abstractor. Additional information on type of insurance and cost of the medication will be abstracted for further analysis.
+## What we are studying
+How do we know how many days a prescribed opioid analgesic was supposed to be taken by a patient? It seems like a simple problem, but the implications are profound – we may mistake a low dose prescription for a high dose prescription if this number is not accurate. For example, if we just know that 30 tablets were dispensed we may not know if they were meant to be taken once a day for 30 days, or 5 times a day for 6 days. Sometimes opioids are taken “as needed for pain” (pro re nata or prn) and the number of days is not specified. How do pharmacists code days’ supply when the prescription says to take two tablets a day, but an odd number of pills is specified?
+In most states, pharmacists calculate by hand the “days’ supply” (the number of days a prescription is intended for), because doctors don’t always write out the number of days. The days’ supply then gets put into a database at the pharmacy along with all the other information on a prescription (prescriber and patient names and addresses, drug dispensed, quantity, dose strength, etc.). These databases are used for research, but we don’t know how consistent the days’ supply calculations are. There is discretion at the pharmacist level and we would like to find out how consistent and accurate interpretations of doctors’ instructions are.
 
-The main goal will be to validate (calculate positive predictive value [PPV]) for the days’ supply measure for 4 different groups of opioid prescriptions: a) ADF OxyContin; b) ADF other than OxyContin; c) non-ADF immediate release; d) non-ADF extended release. Other drug categories can be suggested by FDA. A two-stage clustered design will be employed, with a random (stratified random) sample of pharmacies at stage 1 and a random sample of prescriptions within each pharmacy at stage 2. A sample of 43 pharmacies and 15 prescriptions per pharmacy will ensure not larger than 5% margin of error for the 95% confidence interval of a PPV, assuming 70% PPV and a design effect of 2.
- 
-A targeted review of outlier days’ supply records will be done to identify sources of errors in days’ supply calculations. An algorithm for identifying possibly incorrect days’ supply measures for opioid analgesics in the state PMP system will be developed based on recommendations for therapeutic dose and duration of a prescription. All suspected record-outliers will be reviewed in the 30 independent pharmacies with highest number of outlier records in order to develop a brief for pharmacist education on improved calculation of days’ supply for opioid analgesics with specific example for ADFs as well as non-ADFs based on the results from the targeted review of the outlier days’ supply records.
+## Why it matters
+The days’ supply is a key number that allows us to calculate average daily dose for an opioid prescription. For example, if a patient receives 10 tablets of dose strength 50 milligrams of morphine each, then the total is 500 milligrams. If the days’ supply is 5 days, we divide 500 by 5 days to arrive at an average daily dose of 100 milligrams per day, which some guidelines consider to be a “high dose.” But, if the prescription is really supposed to be consumed over 10 days, the average daily dose would be 50 milligrams per day. Since days’ supply isn’t always written on the prescription, it is up to busy pharmacists to make this calculation at the moment of dispensing, interpreting the doctors instructions.
 
-Results from prescriber and pharmacist surveys will be compiled in a white paper that will be distributed to stakeholders and available for download on the project website.  Additionally, results will be presented at relevant state association conferences and disseminated through presentations at national conferences. The data collection instruments, raw data sets and codebook will be made available to other researchers for secondary data analysis. An education brief for pharmacists on days’ supply calculation will be prepared and disseminated through various channels. These results will be also of benefit to PMP administrators for data quality improvement, and disseminated in conjunction with the Prescription Drug Monitoring Program Training and Technical Assistance Center (PDMP TTAC). Drs. Freeman and Slavova will produce at least one manuscript and will present results at research conferences.
-__________
+## How we are studying it
+The days’ supply is a key number that allows us to calculate average daily dose for an opioid prescription. We will go to dozens of pharmacies in Kentucky and review 10 randomly selected prescriptions at each, matching up what is written down on the paper prescription with what was entered into the database. This study will be completed in 2020.
 
-##### Funding
-Data production supported by: none<br>
-Data analysis supported by: US Food and Drug Administration (HHS#)<br>
+## How to use the results
+The accuracy and consistency results will be used to inform database studies where average daily opioid dose (calculated as milligrams of morphine equivalents) is critical to evaluating changes in policies and medical practice. Results from our study can be plugged into sensitivity analyses where we estimate a range of possible outcome values based on assumptions of how accurately and consistently days’ supply is calculated. The results will be made public on this website for other researchers to calibrate their own studies.
 
-##### Ethics Review
-Instituntional review board: UK #, FDA #<br>
-If there are questions about research ethics, the IRB can be reached at: <br>
-
-__________
+## Who is conducting and supporting the study
+This study is being led by Patricia Freeman at the University of Kentucky College of Pharmacy, working with John Brown. The data are being collected and analyzed as a team. Funding for data analysis is from the United States Food and Drug Administration. This study has been registered with the University of Kentucky Institutional Review Board. All studies at the Opioid Data Lab are conducted by independent researchers at the University of Kentucky and the University of North Carolina at Chapel Hill, and do not necessarily represent the views of funders or partners. We are grateful to generations of taxpayers in Kentucky and North Carolina for supporting public universities. We are also grateful to US taxpayers for safeguarding public health by supporting FDA and this research project. 
